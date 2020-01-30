@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/expressReactSessionTestFrontend/static/js/main.9084dba0.chunk.js",
+    "main.js.map": "/expressReactSessionTestFrontend/static/js/main.9084dba0.chunk.js.map",
+    "runtime-main.js": "/expressReactSessionTestFrontend/static/js/runtime-main.f4c2a3b2.js",
+    "runtime-main.js.map": "/expressReactSessionTestFrontend/static/js/runtime-main.f4c2a3b2.js.map",
+    "static/js/2.fd0f6c96.chunk.js": "/expressReactSessionTestFrontend/static/js/2.fd0f6c96.chunk.js",
+    "static/js/2.fd0f6c96.chunk.js.map": "/expressReactSessionTestFrontend/static/js/2.fd0f6c96.chunk.js.map",
+    "index.html": "/expressReactSessionTestFrontend/index.html",
+    "precache-manifest.4a94a522ff030e3fb0c1e8ce7dab0362.js": "/expressReactSessionTestFrontend/precache-manifest.4a94a522ff030e3fb0c1e8ce7dab0362.js",
+    "service-worker.js": "/expressReactSessionTestFrontend/service-worker.js",
+    "static/js/2.fd0f6c96.chunk.js.LICENSE": "/expressReactSessionTestFrontend/static/js/2.fd0f6c96.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c2a3b2.js",
+    "static/js/2.fd0f6c96.chunk.js",
+    "static/js/main.9084dba0.chunk.js"
+  ]
+}
